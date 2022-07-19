@@ -7,7 +7,7 @@ let opcao = -1
 
 do {
     opcao = getInteiroAleatorioEntre(-1, 10)
-    console.log(`Opção escolha foi ${opcao}.`)
+    console.log(`Opcao escolhida foi ${opcao}.`)
 } while (opcao != -1)
 
-console.log('Ate a próxima!')
+console.log('Até a proxima!')
